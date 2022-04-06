@@ -3,7 +3,7 @@ import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 import React from "react";
 import styled from "styled-components";
-import { mobile } from "../responsive";
+import { mobile } from "../redux/responsive";
 
 const Container = styled.div`
   height: 100px;
